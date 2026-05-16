@@ -1,7 +1,7 @@
 # PermitMeter
 Browser extension risk scorecard for Chrome - Undergraduate Thesis
 
-> 🇮🇩 [Baca dalam Bahasa Indonesia](#permitmeter--bahasa-indonesia)
+> 🇮🇩 [Baca dalam Bahasa Indonesia](#bahasa-indonesia)
 
 A Chrome browser extension that performs real-time static analysis of Chrome Web Store extensions and generates a risk score (0-100) based on their declared permissions - **without installing the extension**.
 
@@ -80,7 +80,7 @@ MIT License © 2025 Christian Darren
 ---
 ---
 
-# PermitMeter - Bahasa Indonesia
+# Bahasa Indonesia
 Scorecard risiko ekstensi browser untuk Chrome - Skripsi Sarjana
 
 > 🇬🇧 [Read in English](#permitmeter)
